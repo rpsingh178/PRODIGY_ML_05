@@ -1,0 +1,8 @@
+venv/
+dataset/
+archive.zip
+food_model.pth
+test_food.jpg
+.DS_Store
+__pycache__/
+*.pyc
